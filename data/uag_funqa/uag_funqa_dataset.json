@@ -1,0 +1,1550 @@
+[
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_101_1433_1631.mp4",
+        "output": "[0000,  0195]",
+        "task": "H1",
+        "ID": "test_0",
+        "start_time": 0.0,
+        "end_time": 6.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_112_0000_0432.mp4",
+        "output": "[0120,0425]",
+        "task": "H1",
+        "ID": "test_80",
+        "start_time": 4.0,
+        "end_time": 14.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_112_0436_0691.mp4",
+        "output": "[0060,0150]",
+        "task": "H1",
+        "ID": "test_160",
+        "start_time": 2.0,
+        "end_time": 5.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_125_2078_2286.mp4",
+        "output": "[0000,0200]",
+        "task": "H1",
+        "ID": "test_240",
+        "start_time": 0.0,
+        "end_time": 6.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_125_2798_3062.mp4",
+        "output": "[0100,0200]",
+        "task": "H1",
+        "ID": "test_320",
+        "start_time": 3.33,
+        "end_time": 6.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_135_3404_3567.mp4",
+        "output": "[0100,0159]",
+        "task": "H1",
+        "ID": "test_400",
+        "start_time": 3.33,
+        "end_time": 5.3
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_136_0465_0753.mp4",
+        "output": "[0000,0257]",
+        "task": "H1",
+        "ID": "test_480",
+        "start_time": 0.0,
+        "end_time": 8.57
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_136_2847_2993.mp4",
+        "output": "[0001, 0140]",
+        "task": "H1",
+        "ID": "test_560",
+        "start_time": 0.03,
+        "end_time": 4.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_137_0922_1194.mp4",
+        "output": "[0001, 0250]",
+        "task": "H1",
+        "ID": "test_640",
+        "start_time": 0.03,
+        "end_time": 8.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_138_0681_0955.mp4",
+        "output": "[0001, 0270]",
+        "task": "H1",
+        "ID": "test_720",
+        "start_time": 0.03,
+        "end_time": 9.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_138_2285_2556.mp4",
+        "output": "[0055, 0260]",
+        "task": "H1",
+        "ID": "test_800",
+        "start_time": 1.83,
+        "end_time": 8.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_141_2377_2501.mp4",
+        "output": "[0029, 0060]",
+        "task": "H1",
+        "ID": "test_880",
+        "start_time": 0.97,
+        "end_time": 2.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_15_0000_0224.mp4",
+        "output": "[0004, 0200]",
+        "task": "H1",
+        "ID": "test_960",
+        "start_time": 0.13,
+        "end_time": 6.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_161_2850_3077.mp4",
+        "output": "[0100, 0120]",
+        "task": "H1",
+        "ID": "test_1040",
+        "start_time": 3.33,
+        "end_time": 4.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_178_4300_4608.mp4",
+        "output": "[0068, 0305]",
+        "task": "H1",
+        "ID": "test_1120",
+        "start_time": 2.27,
+        "end_time": 10.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_179_1690_1815.mp4",
+        "output": "[0000, 0117]",
+        "task": "H1",
+        "ID": "test_1200",
+        "start_time": 0.0,
+        "end_time": 3.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_181_2139_2297.mp4",
+        "output": "[0010, 0078]",
+        "task": "H1",
+        "ID": "test_1280",
+        "start_time": 0.33,
+        "end_time": 2.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_193_2339_2560.mp4",
+        "output": "[0019, 0216]",
+        "task": "H1",
+        "ID": "test_1360",
+        "start_time": 0.63,
+        "end_time": 7.2
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_2_3370_3451.mp4",
+        "output": "[0026, 0078]",
+        "task": "H1",
+        "ID": "test_1440",
+        "start_time": 0.87,
+        "end_time": 2.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_209_3104_3359.mp4",
+        "output": "[0150, 0227]",
+        "task": "H1",
+        "ID": "test_1520",
+        "start_time": 5.0,
+        "end_time": 7.57
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_211_2570_2883.mp4",
+        "output": "[0000, 0309]",
+        "task": "H1",
+        "ID": "test_1600",
+        "start_time": 0.0,
+        "end_time": 10.3
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_222_2427_2871.mp4",
+        "output": "[0084, 0440]",
+        "task": "H1",
+        "ID": "test_1680",
+        "start_time": 2.8,
+        "end_time": 14.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_23_2825_3046.mp4",
+        "output": "[0000, 0218]",
+        "task": "H1",
+        "ID": "test_1760",
+        "start_time": 0.0,
+        "end_time": 7.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_3_0760_0950.mp4",
+        "output": "[0000, 0187]",
+        "task": "H1",
+        "ID": "test_1840",
+        "start_time": 0.0,
+        "end_time": 6.23
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_31_0000_0191.mp4",
+        "output": "[0055, 0188]",
+        "task": "H1",
+        "ID": "test_1920",
+        "start_time": 1.83,
+        "end_time": 6.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_31_0442_0688.mp4",
+        "output": "[0000, 0243]",
+        "task": "H1",
+        "ID": "test_2000",
+        "start_time": 0.0,
+        "end_time": 8.1
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_31_1484_1703.mp4",
+        "output": "[0030,0216]",
+        "task": "H1",
+        "ID": "test_2080",
+        "start_time": 1.0,
+        "end_time": 7.2
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_31_2511_2980.mp4",
+        "output": "[0336,  0436]",
+        "task": "H1",
+        "ID": "test_2160",
+        "start_time": 11.2,
+        "end_time": 14.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_32_0694_0852.mp4",
+        "output": "[0037, 0155]",
+        "task": "H1",
+        "ID": "test_2240",
+        "start_time": 1.23,
+        "end_time": 5.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_32_2136_2435.mp4",
+        "output": "[0085, 0229]",
+        "task": "H1",
+        "ID": "test_2320",
+        "start_time": 2.83,
+        "end_time": 7.63
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_36_2514_2828.mp4",
+        "output": "[0080, 0311]",
+        "task": "H1",
+        "ID": "test_2400",
+        "start_time": 2.67,
+        "end_time": 10.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_39_2925_3134.mp4",
+        "output": "[0078, 0130]",
+        "task": "H1",
+        "ID": "test_2480",
+        "start_time": 2.6,
+        "end_time": 4.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_40_0483_0559.mp4",
+        "output": "[0000, 0073]",
+        "task": "H1",
+        "ID": "test_2560",
+        "start_time": 0.0,
+        "end_time": 2.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_40_1554_1712.mp4",
+        "output": "[0019, 0155]",
+        "task": "H1",
+        "ID": "test_2640",
+        "start_time": 0.63,
+        "end_time": 5.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_40_3153_3445.mp4",
+        "output": "[0000,0289]",
+        "task": "H1",
+        "ID": "test_2720",
+        "start_time": 0.0,
+        "end_time": 9.63
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_73_0257_0456.mp4",
+        "output": "[0000, 0196]",
+        "task": "H1",
+        "ID": "test_2800",
+        "start_time": 0.0,
+        "end_time": 6.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_100_3230_3400.mp4",
+        "output": "[0004, 0166]",
+        "task": "H1",
+        "ID": "test_2880",
+        "start_time": 0.13,
+        "end_time": 5.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_101_2970_3120.mp4",
+        "output": "[0035, 0145]",
+        "task": "H1",
+        "ID": "test_2960",
+        "start_time": 1.17,
+        "end_time": 4.83
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_102_1679_1774.mp4",
+        "output": "[0000, 0092]",
+        "task": "H1",
+        "ID": "test_3040",
+        "start_time": 0.0,
+        "end_time": 3.07
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_103_0920_1010.mp4",
+        "output": "[0000, 0087]",
+        "task": "H1",
+        "ID": "test_3120",
+        "start_time": 0.0,
+        "end_time": 2.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_106_2022_2224.mp4",
+        "output": "[0000, 0199]",
+        "task": "H1",
+        "ID": "test_3200",
+        "start_time": 0.0,
+        "end_time": 6.63
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_107_3072_3160.mp4",
+        "output": "[0000, 0085]",
+        "task": "H1",
+        "ID": "test_3280",
+        "start_time": 0.0,
+        "end_time": 2.83
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_108_0600_0707.mp4",
+        "output": "[0000, 0104]",
+        "task": "H1",
+        "ID": "test_3360",
+        "start_time": 0.0,
+        "end_time": 3.47
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_113_0712_0792.mp4",
+        "output": "[0000, 0077]",
+        "task": "H1",
+        "ID": "test_3440",
+        "start_time": 0.0,
+        "end_time": 2.57
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_114_3686_3881.mp4",
+        "output": "[0023,0192]",
+        "task": "H1",
+        "ID": "test_3520",
+        "start_time": 0.77,
+        "end_time": 6.4
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_115_2190_2304.mp4",
+        "output": "[0000, 0111]",
+        "task": "H1",
+        "ID": "test_3600",
+        "start_time": 0.0,
+        "end_time": 3.7
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_117_1030_1217.mp4",
+        "output": "[0050, 0184]",
+        "task": "H1",
+        "ID": "test_3680",
+        "start_time": 1.67,
+        "end_time": 6.13
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_119_2067_2100.mp4",
+        "output": "[0022, 0030]",
+        "task": "H1",
+        "ID": "test_3760",
+        "start_time": 0.73,
+        "end_time": 1.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_121_3397_3512.mp4",
+        "output": "[0103, 0112]",
+        "task": "H1",
+        "ID": "test_3840",
+        "start_time": 3.43,
+        "end_time": 3.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_125_2858_3029.mp4",
+        "output": "[0130, 0168]",
+        "task": "H1",
+        "ID": "test_3920",
+        "start_time": 4.33,
+        "end_time": 5.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_127_1218_1399.mp4",
+        "output": "[0056, 0178]",
+        "task": "H1",
+        "ID": "test_4000",
+        "start_time": 1.87,
+        "end_time": 5.93
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_127_1628_1761.mp4",
+        "output": "[0077, 0130]",
+        "task": "H1",
+        "ID": "test_4080",
+        "start_time": 2.57,
+        "end_time": 4.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_13_1042_1221.mp4",
+        "output": "[0042, 0176]",
+        "task": "H1",
+        "ID": "test_4160",
+        "start_time": 1.4,
+        "end_time": 5.87
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_132_0544_0639.mp4",
+        "output": "[0063, 0092]",
+        "task": "H1",
+        "ID": "test_4240",
+        "start_time": 2.1,
+        "end_time": 3.07
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_132_1393_1497.mp4",
+        "output": "[0070, 0101]",
+        "task": "H1",
+        "ID": "test_4320",
+        "start_time": 2.33,
+        "end_time": 3.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_133_1554_1718.mp4",
+        "output": "[0070, 0161]",
+        "task": "H1",
+        "ID": "test_4400",
+        "start_time": 2.33,
+        "end_time": 5.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_165_3996_4080.mp4",
+        "output": "[0031, 0081]",
+        "task": "H1",
+        "ID": "test_4480",
+        "start_time": 1.03,
+        "end_time": 2.7
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_165_4617_4709.mp4",
+        "output": "[0023, 0089]",
+        "task": "H1",
+        "ID": "test_4560",
+        "start_time": 0.77,
+        "end_time": 2.97
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_169_1656_1737.mp4",
+        "output": "[0000, 0078]",
+        "task": "H1",
+        "ID": "test_4640",
+        "start_time": 0.0,
+        "end_time": 2.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_182_2660_2786.mp4",
+        "output": "[0044, 0123]",
+        "task": "H1",
+        "ID": "test_4720",
+        "start_time": 1.47,
+        "end_time": 4.1
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_192_0304_0384.mp4",
+        "output": "[0032, 0071]",
+        "task": "H1",
+        "ID": "test_4800",
+        "start_time": 1.07,
+        "end_time": 2.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_193_2012_2100.mp4",
+        "output": "[0022, 0076]",
+        "task": "H1",
+        "ID": "test_4880",
+        "start_time": 0.73,
+        "end_time": 2.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_194_0571_0756.mp4",
+        "output": "[0130, 0152]",
+        "task": "H1",
+        "ID": "test_4960",
+        "start_time": 4.33,
+        "end_time": 5.07
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_196_0303_0504.mp4",
+        "output": "[0017, 0127]",
+        "task": "H1",
+        "ID": "test_5040",
+        "start_time": 0.57,
+        "end_time": 4.23
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_199_1990_2259.mp4",
+        "output": "[0174, 0262]",
+        "task": "H1",
+        "ID": "test_5120",
+        "start_time": 5.8,
+        "end_time": 8.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_2_3125_3305.mp4",
+        "output": "[0082, 0106]",
+        "task": "H1",
+        "ID": "test_5200",
+        "start_time": 2.73,
+        "end_time": 3.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_20_3372_3540.mp4",
+        "output": "[0116, 0161]",
+        "task": "H1",
+        "ID": "test_5280",
+        "start_time": 3.87,
+        "end_time": 5.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_203_1646_1713.mp4",
+        "output": "[0024, 0045]",
+        "task": "H1",
+        "ID": "test_5360",
+        "start_time": 0.8,
+        "end_time": 1.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_203_2846_3053.mp4",
+        "output": "[0021, 0083]",
+        "task": "H1",
+        "ID": "test_5440",
+        "start_time": 0.7,
+        "end_time": 2.77
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_213_1410_1499.mp4",
+        "output": "[0053, 0084]",
+        "task": "H1",
+        "ID": "test_5520",
+        "start_time": 1.77,
+        "end_time": 2.8
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_223_0385_0424.mp4",
+        "output": "[0000, 0035]",
+        "task": "H1",
+        "ID": "test_5600",
+        "start_time": 0.0,
+        "end_time": 1.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_225_1465_1622.mp4",
+        "output": "[0005, 0064]",
+        "task": "H1",
+        "ID": "test_5680",
+        "start_time": 0.17,
+        "end_time": 2.13
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_244_3603_3682.mp4",
+        "output": "[0000, 0075]",
+        "task": "H1",
+        "ID": "test_5760",
+        "start_time": 0.0,
+        "end_time": 2.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_245_3774_3967.mp4",
+        "output": "[0021, 0128]",
+        "task": "H1",
+        "ID": "test_5840",
+        "start_time": 0.7,
+        "end_time": 4.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_246_0293_0390.mp4",
+        "output": "[0045, 0082]",
+        "task": "H1",
+        "ID": "test_5920",
+        "start_time": 1.5,
+        "end_time": 2.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_248_0272_0319.mp4",
+        "output": "[0000, 0043]",
+        "task": "H1",
+        "ID": "test_6000",
+        "start_time": 0.0,
+        "end_time": 1.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_249_0710_0923.mp4",
+        "output": "[0003, 0210]",
+        "task": "H1",
+        "ID": "test_6080",
+        "start_time": 0.1,
+        "end_time": 7.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_3168_3257.mp4",
+        "output": "[0040, 0071]",
+        "task": "H1",
+        "ID": "test_6160",
+        "start_time": 1.33,
+        "end_time": 2.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_3519_3609.mp4",
+        "output": "[0030, 0085]",
+        "task": "H1",
+        "ID": "test_6240",
+        "start_time": 1.0,
+        "end_time": 2.83
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_3610_3726.mp4",
+        "output": "[0081, 0110]",
+        "task": "H1",
+        "ID": "test_6320",
+        "start_time": 2.7,
+        "end_time": 3.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_3965_4061.mp4",
+        "output": "[0040, 0090]",
+        "task": "H1",
+        "ID": "test_6400",
+        "start_time": 1.33,
+        "end_time": 3.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_4389_4472.mp4",
+        "output": "[0029, 0070]",
+        "task": "H1",
+        "ID": "test_6480",
+        "start_time": 0.97,
+        "end_time": 2.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_258_5926_6298.mp4",
+        "output": "[0062, 0358]",
+        "task": "H1",
+        "ID": "test_6560",
+        "start_time": 2.07,
+        "end_time": 11.93
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_259_0848_0931.mp4",
+        "output": "[0010, 0052]",
+        "task": "H1",
+        "ID": "test_6640",
+        "start_time": 0.33,
+        "end_time": 1.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_260_0697_0794.mp4",
+        "output": "[0032, 0090]",
+        "task": "H1",
+        "ID": "test_6720",
+        "start_time": 1.07,
+        "end_time": 3.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_260_1116_1234.mp4",
+        "output": "[0065, 0085]",
+        "task": "H1",
+        "ID": "test_6800",
+        "start_time": 2.17,
+        "end_time": 2.83
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_260_1577_1681.mp4",
+        "output": "[0045, 0070]",
+        "task": "H1",
+        "ID": "test_6880",
+        "start_time": 1.5,
+        "end_time": 2.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_261_2742_2904.mp4",
+        "output": "[0058, 0090]",
+        "task": "H1",
+        "ID": "test_6960",
+        "start_time": 1.93,
+        "end_time": 3.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_262_1313_1378.mp4",
+        "output": "[0030, 0064]",
+        "task": "H1",
+        "ID": "test_7040",
+        "start_time": 1.0,
+        "end_time": 2.13
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_262_1902_1986.mp4",
+        "output": "[0005,0075]",
+        "task": "H1",
+        "ID": "test_7120",
+        "start_time": 0.17,
+        "end_time": 2.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_288_2653_2769.mp4",
+        "output": "[0010,0112]",
+        "task": "H1",
+        "ID": "test_7200",
+        "start_time": 0.33,
+        "end_time": 3.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_295_0000_0165.mp4",
+        "output": "[0047,0163]",
+        "task": "H1",
+        "ID": "test_7280",
+        "start_time": 1.57,
+        "end_time": 5.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_3_0709_0916.mp4",
+        "output": "[0077,0183]",
+        "task": "H1",
+        "ID": "test_7360",
+        "start_time": 2.57,
+        "end_time": 6.1
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_3_1548_1678.mp4",
+        "output": "[0096,0126]",
+        "task": "H1",
+        "ID": "test_7440",
+        "start_time": 3.2,
+        "end_time": 4.2
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_30_1893_2009.mp4",
+        "output": "[0085,0113]",
+        "task": "H1",
+        "ID": "test_7520",
+        "start_time": 2.83,
+        "end_time": 3.77
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_8_2919_3025.mp4",
+        "output": "[0040, 0103]",
+        "task": "H1",
+        "ID": "test_7600",
+        "start_time": 1.33,
+        "end_time": 3.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_84_2310_2408.mp4",
+        "output": "[0000, 0095]",
+        "task": "H1",
+        "ID": "test_7680",
+        "start_time": 0.0,
+        "end_time": 3.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_95_0260_0377.mp4",
+        "output": "[0032, 0071]",
+        "task": "H1",
+        "ID": "test_7760",
+        "start_time": 1.07,
+        "end_time": 2.37
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_95_0700_0801.mp4",
+        "output": "[0014, 0040]",
+        "task": "H1",
+        "ID": "test_7840",
+        "start_time": 0.47,
+        "end_time": 1.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_99_1849_2077.mp4",
+        "output": "[0132, 0223]",
+        "task": "H1",
+        "ID": "test_7920",
+        "start_time": 4.4,
+        "end_time": 7.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_99_2453_2635.mp4",
+        "output": "[0112, 0179]",
+        "task": "H1",
+        "ID": "test_8000",
+        "start_time": 3.73,
+        "end_time": 5.97
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1069_0000_0243.mp4",
+        "output": "[0140, 0201]",
+        "task": "H1",
+        "ID": "test_8080",
+        "start_time": 4.67,
+        "end_time": 6.7
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1181_0010_0520.mp4",
+        "output": "[0313, 0480]",
+        "task": "H1",
+        "ID": "test_8160",
+        "start_time": 10.43,
+        "end_time": 16.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_63_0050_0248.mp4",
+        "output": "[0098, 0180]",
+        "task": "H1",
+        "ID": "test_8240",
+        "start_time": 3.27,
+        "end_time": 6.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_630_0000_0160.mp4",
+        "output": "[0040, 0121]",
+        "task": "H1",
+        "ID": "test_8320",
+        "start_time": 1.33,
+        "end_time": 4.03
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_646_0000_0178.mp4",
+        "output": "[0034, 0138]",
+        "task": "H1",
+        "ID": "test_8400",
+        "start_time": 1.13,
+        "end_time": 4.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_647_0000_0312.mp4",
+        "output": "[0054, 0207]",
+        "task": "H1",
+        "ID": "test_8480",
+        "start_time": 1.8,
+        "end_time": 6.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_662_0000_0260.mp4",
+        "output": "[0105, 0255]",
+        "task": "H1",
+        "ID": "test_8560",
+        "start_time": 3.5,
+        "end_time": 8.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_70_0000_0286.mp4",
+        "output": "[0013, 0113]",
+        "task": "H1",
+        "ID": "test_8640",
+        "start_time": 0.43,
+        "end_time": 3.77
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_723_0123_0269.mp4",
+        "output": "[0007, 0138]",
+        "task": "H1",
+        "ID": "test_8720",
+        "start_time": 0.23,
+        "end_time": 4.6
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_76_0000_0395.mp4",
+        "output": "[0241, 0391]",
+        "task": "H1",
+        "ID": "test_8800",
+        "start_time": 8.03,
+        "end_time": 13.03
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_770_0000_0235.mp4",
+        "output": "[0000, 0231]",
+        "task": "H1",
+        "ID": "test_8880",
+        "start_time": 0.0,
+        "end_time": 7.7
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_779_0000_0149.mp4",
+        "output": "[0000, 0146]",
+        "task": "H1",
+        "ID": "test_8960",
+        "start_time": 0.0,
+        "end_time": 4.87
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_812_0035_0218.mp4",
+        "output": "[0059, 0173]",
+        "task": "H1",
+        "ID": "test_9040",
+        "start_time": 1.97,
+        "end_time": 5.77
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_814_0031_0310.mp4",
+        "output": "[0000, 0270]",
+        "task": "H1",
+        "ID": "test_9120",
+        "start_time": 0.0,
+        "end_time": 9.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_848_0000_0538.mp4",
+        "output": "[0035, 0534]",
+        "task": "H1",
+        "ID": "test_9200",
+        "start_time": 1.17,
+        "end_time": 17.8
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_880_0000_0360.mp4",
+        "output": "[0140, 0349]",
+        "task": "H1",
+        "ID": "test_9280",
+        "start_time": 4.67,
+        "end_time": 11.63
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_888_0000_0173.mp4",
+        "output": "[0030, 0160]",
+        "task": "H1",
+        "ID": "test_9360",
+        "start_time": 1.0,
+        "end_time": 5.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_932_0000_0196.mp4",
+        "output": "[0024, 0192]",
+        "task": "H1",
+        "ID": "test_9440",
+        "start_time": 0.8,
+        "end_time": 6.4
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_99_0000_0315.mp4",
+        "output": "[0119, 0312]",
+        "task": "H1",
+        "ID": "test_9520",
+        "start_time": 3.97,
+        "end_time": 10.4
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_137_0725_0795.mp4",
+        "output": "[0020,0050]",
+        "task": "H1",
+        "ID": "test_9600",
+        "start_time": 0.67,
+        "end_time": 1.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_139_1170_1296.mp4",
+        "output": "[0000,0120]",
+        "task": "H1",
+        "ID": "test_9680",
+        "start_time": 0.0,
+        "end_time": 4.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_145_1850_1912.mp4",
+        "output": "[0015,0050]",
+        "task": "H1",
+        "ID": "test_9760",
+        "start_time": 0.5,
+        "end_time": 1.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_146_3472_3673.mp4",
+        "output": "[0170,0189]",
+        "task": "H1",
+        "ID": "test_9840",
+        "start_time": 5.67,
+        "end_time": 6.3
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_987_0000_0107.mp4",
+        "output": "[0015,0085]",
+        "task": "H1",
+        "ID": "test_9920",
+        "start_time": 0.5,
+        "end_time": 2.83
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_995_0000_0442.mp4",
+        "output": "[0092,0250]",
+        "task": "H1",
+        "ID": "test_10000",
+        "start_time": 3.07,
+        "end_time": 8.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_999_0000_0689.mp4",
+        "output": "[0034,0666]",
+        "task": "H1",
+        "ID": "test_10080",
+        "start_time": 1.13,
+        "end_time": 22.2
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_A_61_0865_1062.mp4",
+        "output": "[0156,0194]",
+        "task": "H1",
+        "ID": "test_10160",
+        "start_time": 5.2,
+        "end_time": 6.47
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_503_0000_0200.mp4",
+        "output": "[0102,0184]",
+        "task": "H1",
+        "ID": "test_10240",
+        "start_time": 3.4,
+        "end_time": 6.13
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_507_0000_0270.mp4",
+        "output": "[0009, 0132]",
+        "task": "H1",
+        "ID": "test_10320",
+        "start_time": 0.3,
+        "end_time": 4.4
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_530_0000_0220.mp4",
+        "output": "[0105, 0215]",
+        "task": "H1",
+        "ID": "test_10400",
+        "start_time": 3.5,
+        "end_time": 7.17
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_534_0000_0400.mp4",
+        "output": "[0204, 0389]",
+        "task": "H1",
+        "ID": "test_10480",
+        "start_time": 6.8,
+        "end_time": 12.97
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_552_0210_0270.mp4",
+        "output": "[0000, 0057]",
+        "task": "H1",
+        "ID": "test_10560",
+        "start_time": 0.0,
+        "end_time": 1.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_555_0000_0400.mp4",
+        "output": "[0000,0397]",
+        "task": "H1",
+        "ID": "test_10640",
+        "start_time": 0.0,
+        "end_time": 13.23
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_564_0000_0760.mp4",
+        "output": "[0000,0693]",
+        "task": "H1",
+        "ID": "test_10720",
+        "start_time": 0.0,
+        "end_time": 23.1
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_568_0000_0500.mp4",
+        "output": "[0000,0486]",
+        "task": "H1",
+        "ID": "test_10800",
+        "start_time": 0.0,
+        "end_time": 16.2
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_580_0000_0770.mp4",
+        "output": "[0214,0623]",
+        "task": "H1",
+        "ID": "test_10880",
+        "start_time": 7.13,
+        "end_time": 20.77
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_597_0000_0250.mp4",
+        "output": "[0000,0218]",
+        "task": "H1",
+        "ID": "test_10960",
+        "start_time": 0.0,
+        "end_time": 7.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_617_0290_0344.mp4",
+        "output": "[0000,0051]",
+        "task": "H1",
+        "ID": "test_11040",
+        "start_time": 0.0,
+        "end_time": 1.7
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_122_0000_0528.mp4",
+        "output": "[0000,0500]",
+        "task": "H1",
+        "ID": "test_11120",
+        "start_time": 0.0,
+        "end_time": 16.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1227_0000_0191.mp4",
+        "output": "[0000,0188]",
+        "task": "H1",
+        "ID": "test_11200",
+        "start_time": 0.0,
+        "end_time": 6.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1230_0000_0285.mp4",
+        "output": "[0000,0280]",
+        "task": "H1",
+        "ID": "test_11280",
+        "start_time": 0.0,
+        "end_time": 9.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_125_0000_0387.mp4",
+        "output": "[0000,0300]",
+        "task": "H1",
+        "ID": "test_11360",
+        "start_time": 0.0,
+        "end_time": 10.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1267_0010_0670.mp4",
+        "output": "[0400,0620]",
+        "task": "H1",
+        "ID": "test_11440",
+        "start_time": 13.33,
+        "end_time": 20.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1271_0005_0368.mp4",
+        "output": "[0000,0350]",
+        "task": "H1",
+        "ID": "test_11520",
+        "start_time": 0.0,
+        "end_time": 11.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1273_0010_0640.mp4",
+        "output": "[0500,0620]",
+        "task": "H1",
+        "ID": "test_11600",
+        "start_time": 16.67,
+        "end_time": 20.67
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_1283_0012_0299.mp4",
+        "output": "[0000,0283]",
+        "task": "H1",
+        "ID": "test_11680",
+        "start_time": 0.0,
+        "end_time": 9.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_135_0315_0478.mp4",
+        "output": "[0057, 0119]",
+        "task": "H1",
+        "ID": "test_11760",
+        "start_time": 1.9,
+        "end_time": 3.97
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_14_0000_0214.mp4",
+        "output": "[0100, 0128]",
+        "task": "H1",
+        "ID": "test_11840",
+        "start_time": 3.33,
+        "end_time": 4.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_150_0000_0480.mp4",
+        "output": "[0000, 0477]",
+        "task": "H1",
+        "ID": "test_11920",
+        "start_time": 0.0,
+        "end_time": 15.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_256_0988_1128.mp4",
+        "output": "[0000, 0137]",
+        "task": "H1",
+        "ID": "test_12000",
+        "start_time": 0.0,
+        "end_time": 4.57
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_256_1314_1489.mp4",
+        "output": "[0000, 0172]",
+        "task": "H1",
+        "ID": "test_12080",
+        "start_time": 0.0,
+        "end_time": 5.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_256_2755_2849.mp4",
+        "output": "[0000, 0091]",
+        "task": "H1",
+        "ID": "test_12160",
+        "start_time": 0.0,
+        "end_time": 3.03
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_256_3037_3124.mp4",
+        "output": "[0000, 0084]",
+        "task": "H1",
+        "ID": "test_12240",
+        "start_time": 0.0,
+        "end_time": 2.8
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_239_0253_0303.mp4",
+        "output": "[0018, 0045]",
+        "task": "H1",
+        "ID": "test_12320",
+        "start_time": 0.6,
+        "end_time": 1.5
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_286_0000_0278.mp4",
+        "output": "[0042, 0144]",
+        "task": "H1",
+        "ID": "test_12400",
+        "start_time": 1.4,
+        "end_time": 4.8
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_378_0000_0317.mp4",
+        "output": "[0184, 0292]",
+        "task": "H1",
+        "ID": "test_12480",
+        "start_time": 6.13,
+        "end_time": 9.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_386_0000_0256.mp4",
+        "output": "[0112, 0248]",
+        "task": "H1",
+        "ID": "test_12560",
+        "start_time": 3.73,
+        "end_time": 8.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_396_0000_0275.mp4",
+        "output": "[0174, 0271]",
+        "task": "H1",
+        "ID": "test_12640",
+        "start_time": 5.8,
+        "end_time": 9.03
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_42_0000_0826.mp4",
+        "output": "[0670, 0808]",
+        "task": "H1",
+        "ID": "test_12720",
+        "start_time": 22.33,
+        "end_time": 26.93
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_471_0280_0336.mp4",
+        "output": "[0025, 0052]",
+        "task": "H1",
+        "ID": "test_12800",
+        "start_time": 0.83,
+        "end_time": 1.73
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_471_0340_0411.mp4",
+        "output": "[0028, 0068]",
+        "task": "H1",
+        "ID": "test_12880",
+        "start_time": 0.93,
+        "end_time": 2.27
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_490_0000_0140.mp4",
+        "output": "[0083, 0137]",
+        "task": "H1",
+        "ID": "test_12960",
+        "start_time": 2.77,
+        "end_time": 4.57
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_T_495_0000_0060.mp4",
+        "output": "[0025, 0057]",
+        "task": "H1",
+        "ID": "test_13040",
+        "start_time": 0.83,
+        "end_time": 1.9
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_312_3848_3972.mp4",
+        "output": "[0051, 0103]",
+        "task": "H1",
+        "ID": "test_13120",
+        "start_time": 1.7,
+        "end_time": 3.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_342_0649_0850.mp4",
+        "output": "[0079, 0130]",
+        "task": "H1",
+        "ID": "test_13200",
+        "start_time": 2.63,
+        "end_time": 4.33
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_37_0727_0814.mp4",
+        "output": "[0047, 0084]",
+        "task": "H1",
+        "ID": "test_13280",
+        "start_time": 1.57,
+        "end_time": 2.8
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_38_0544_0593.mp4",
+        "output": "[0000, 0046]",
+        "task": "H1",
+        "ID": "test_13360",
+        "start_time": 0.0,
+        "end_time": 1.53
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_41_1853_1959.mp4",
+        "output": "[0037, 0103]",
+        "task": "H1",
+        "ID": "test_13440",
+        "start_time": 1.23,
+        "end_time": 3.43
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_45_2446_2509.mp4",
+        "output": "[0000, 0060]",
+        "task": "H1",
+        "ID": "test_13520",
+        "start_time": 0.0,
+        "end_time": 2.0
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_46_0625_0746.mp4",
+        "output": "[0085, 0118]",
+        "task": "H1",
+        "ID": "test_13600",
+        "start_time": 2.83,
+        "end_time": 3.93
+    },
+    {
+        "instruction": "Identify the video's funny moment.",
+        "visual_input": "H_H_49_0462_0589.mp4",
+        "output": "[0080, 0106]",
+        "task": "H1",
+        "ID": "test_13680",
+        "start_time": 2.67,
+        "end_time": 3.53
+    }
+]

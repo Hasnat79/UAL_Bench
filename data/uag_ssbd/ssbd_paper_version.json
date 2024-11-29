@@ -1,0 +1,1250 @@
+[
+    [
+        "v_ArmFlapping_01",
+        {
+            "id": "b_01",
+            "time": "0018:0024",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_01",
+        {
+            "id": "b_02",
+            "time": "0027:0032",
+            "bodypart": "full",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_02",
+        {
+            "id": "b_01",
+            "time": "0011:0016",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_02",
+        {
+            "id": "b_02",
+            "time": "0019:0023",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_02",
+        {
+            "id": "b_03",
+            "time": "0029:0033",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_03",
+        {
+            "id": "b_01",
+            "time": "0022:0027",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_04",
+        {
+            "id": "b_01",
+            "time": "0105:0125",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_04",
+        {
+            "id": "b_02",
+            "time": "0212:0220",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_05",
+        {
+            "id": "b_01",
+            "time": "0002:0014",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_01",
+            "time": "0018:0021",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_02",
+            "time": "0047:0051",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_03",
+            "time": "0110:0117",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_04",
+            "time": "0130:0148",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_05",
+            "time": "0202:0214",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_06",
+            "time": "0315:0320",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_08",
+        {
+            "id": "b_07",
+            "time": "0338:0343",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_09",
+        {
+            "id": "b_01",
+            "time": "0005:0015",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_09",
+        {
+            "id": "b_02",
+            "time": "0030:0044",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_09",
+        {
+            "id": "b_03",
+            "time": "0055:0110",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_09",
+        {
+            "id": "b_04",
+            "time": "0125:0140",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_09",
+        {
+            "id": "b_05",
+            "time": "0205:0219",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_10",
+        {
+            "id": "b_01",
+            "time": "0018:0027",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_10",
+        {
+            "id": "b_02",
+            "time": "0033:0037",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_10",
+        {
+            "id": "b_03",
+            "time": "0050:0057",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_10",
+        {
+            "id": "b_04",
+            "time": "0108:0125",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_12",
+        {
+            "id": "b_01",
+            "time": "0003:0030",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_12",
+        {
+            "id": "b_02",
+            "time": "0114:0210",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_12",
+        {
+            "id": "b_03",
+            "time": "0214:0235",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_13",
+        {
+            "id": "b_01",
+            "time": "0019:0022",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_13",
+        {
+            "id": "b_02",
+            "time": "0040:0051",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is armflapping with low intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_14",
+        {
+            "id": "b_01",
+            "time": "0003:0007",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_15",
+        {
+            "id": "b_01",
+            "time": "0017:0023",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_15",
+        {
+            "id": "b_02",
+            "time": "0032:0037",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_16",
+        {
+            "id": "b_01",
+            "time": "0032:0046",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_18",
+        {
+            "id": "b_01",
+            "time": "0003:0007",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_18",
+        {
+            "id": "b_02",
+            "time": "0040:0050",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_19",
+        {
+            "id": "b_01",
+            "time": "0100:0134",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_19",
+        {
+            "id": "b_02",
+            "time": "0140:0200",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_19",
+        {
+            "id": "b_03",
+            "time": "0255:0310",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_19",
+        {
+            "id": "b_04",
+            "time": "0325:0339",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_20",
+        {
+            "id": "b_01",
+            "time": "0134:0138",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_21",
+        {
+            "id": "b_01",
+            "time": "0007:0016",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_22",
+        {
+            "id": "b_01",
+            "time": "0002:0006",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_22",
+        {
+            "id": "b_02",
+            "time": "0041:0055",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_22",
+        {
+            "id": "b_03",
+            "time": "0100:0129",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_22",
+        {
+            "id": "b_04",
+            "time": "0134:0142",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_22",
+        {
+            "id": "b_05",
+            "time": "0150:0158",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_24",
+        {
+            "id": "b_01",
+            "time": "0008:0015",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_ArmFlapping_25",
+        {
+            "id": "b_01",
+            "time": "0004:0008",
+            "bodypart": "hand",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_01",
+        {
+            "id": "b_01",
+            "time": "0001:0004",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_02",
+        {
+            "id": "b_01",
+            "time": "0004:0009",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_02",
+        {
+            "id": "b_02",
+            "time": "0036:0044",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_03",
+        {
+            "id": "b_01",
+            "time": "0006:0014",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_04",
+        {
+            "id": "b_01",
+            "time": "0016:0030",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_04",
+        {
+            "id": "b_02",
+            "time": "0034:0039",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_05",
+        {
+            "id": "b_01",
+            "time": "0003:0017",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_06",
+        {
+            "id": "b_01",
+            "time": "0010:0019",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_07",
+        {
+            "id": "b_01",
+            "time": "0055:0104",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_10",
+        {
+            "id": "b_01",
+            "time": "0016:0022",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_13",
+        {
+            "id": "b_01",
+            "time": "0002:0020",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_14",
+        {
+            "id": "b_01",
+            "time": "0004:0030",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_15",
+        {
+            "id": "b_01",
+            "time": "0001:0023",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_16",
+        {
+            "id": "b_01",
+            "time": "0010:0017",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is headbanging with low intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_17",
+        {
+            "id": "b_01",
+            "time": "0002:0058",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_18",
+        {
+            "id": "b_01",
+            "time": "0001:0015",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_19",
+        {
+            "id": "b_01",
+            "time": "0030:0040",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_19",
+        {
+            "id": "b_02",
+            "time": "0204:0230",
+            "bodypart": "arm",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_19",
+        {
+            "id": "b_03",
+            "time": "0256:0307",
+            "bodypart": "arm",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_19",
+        {
+            "id": "b_04",
+            "time": "0326:0331",
+            "bodypart": "arm",
+            "category": "armflapping",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is armflapping with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_20",
+        {
+            "id": "b_01",
+            "time": "0001:0007",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_20",
+        {
+            "id": "b_02",
+            "time": "0018:0025",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_20",
+        {
+            "id": "b_03",
+            "time": "0036:0050",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_21",
+        {
+            "id": "b_01",
+            "time": "0008:0018",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is headbanging with low intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_21",
+        {
+            "id": "b_02",
+            "time": "0020:0044",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is headbanging with low intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_21",
+        {
+            "id": "b_03",
+            "time": "0054:0123",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is headbanging with low intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_22",
+        {
+            "id": "b_01",
+            "time": "0009:0026",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is headbanging with high intensity"
+        }
+    ],
+    [
+        "v_HeadBanging_24",
+        {
+            "id": "b_01",
+            "time": "0003:0010",
+            "bodypart": "head",
+            "category": "headbanging",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is headbanging with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_01",
+        {
+            "id": "b_01",
+            "time": "0108:0123",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_02",
+        {
+            "id": "b_01",
+            "time": "0010:0020",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_04",
+        {
+            "id": "b_01",
+            "time": "0001:0110",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_05",
+        {
+            "id": "b_01",
+            "time": "0002:0015",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_07",
+        {
+            "id": "b_01",
+            "time": "0006:0018",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_08",
+        {
+            "id": "b_01",
+            "time": "0002:0059",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_09",
+        {
+            "id": "b_01",
+            "time": "0004:0012",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_09",
+        {
+            "id": "b_02",
+            "time": "0028:0047",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_09",
+        {
+            "id": "b_03",
+            "time": "0058:0104",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_10",
+        {
+            "id": "b_01",
+            "time": "0003:0028",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_11",
+        {
+            "id": "b_01",
+            "time": "0003:0020",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_12",
+        {
+            "id": "b_01",
+            "time": "0002:0150",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_14",
+        {
+            "id": "b_01",
+            "time": "0051:0058",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_15",
+        {
+            "id": "b_01",
+            "time": "0001:0010",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_16",
+        {
+            "id": "b_01",
+            "time": "0006:0012",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_16",
+        {
+            "id": "b_02",
+            "time": "0115:0135",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_18",
+        {
+            "id": "b_01",
+            "time": "0001:0047",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_18",
+        {
+            "id": "b_02",
+            "time": "0100:0128",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_18",
+        {
+            "id": "b_03",
+            "time": "0145:0208",
+            "bodypart": "head",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_18",
+        {
+            "id": "b_04",
+            "time": "0220:0227",
+            "bodypart": "head",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_18",
+        {
+            "id": "b_05",
+            "time": "0243:0455",
+            "bodypart": "head",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_19",
+        {
+            "id": "b_01",
+            "time": "0056:0103",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_21",
+        {
+            "id": "b_01",
+            "time": "0002:0047",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_22",
+        {
+            "id": "b_01",
+            "time": "0002:0007",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_22",
+        {
+            "id": "b_02",
+            "time": "0015:0120",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "low",
+            "modality": "video",
+            "description": "a person is spinning with low intensity"
+        }
+    ],
+    [
+        "v_Spinning_23",
+        {
+            "id": "b_01",
+            "time": "0001:0235",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ],
+    [
+        "v_Spinning_25",
+        {
+            "id": "b_01",
+            "time": "0025:0028",
+            "bodypart": "body",
+            "category": "spinning",
+            "intensity": "high",
+            "modality": "video",
+            "description": "a person is spinning with high intensity"
+        }
+    ]
+]
