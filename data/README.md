@@ -14,6 +14,15 @@
 ```bash
 tar -xvf uag_oops.tar
 ```
+- After downloading and setting the videos in the correct directory, you can use the data loaders modules from [src/dataloaders](../../src/dataloaders) to directly load the videos and annotations in your code. For example:
+
+```python
+
+from src.dataloaders.uag_oops_loader import UAGOopsLoader
+uag_oops = UAGOopsLoader()
+for video_id, video_info in uag_oops:
+    print(video_id, video_info)
+```
 
 ## Tree Structure of the directory
 ```bash 
@@ -74,14 +83,6 @@ tar -xvf uag_oops.tar
     
 
 #### note
-- After downloading and setting the videos in the correct directory, you can use the data loaders modules [src/dataloaders](../../src/dataloaders) to directly load and use the videos in your code. For example:
 
-```python
-
-from src.dataloaders.uag_oops_loader import UAGOopsLoader
-uag_oops = UAGOopsLoader()
-for video_id, video_info in uag_oops_v1:
-    print(video_id, video_info)
-```
 
 - **[original SSBD](https://rolandgoecke.net/research/datasets/ssbd/)** has listed 75 videos. Among them 58 are available on YouTube for download. uag-ssbd dataset is a subset of SSBD dataset.
