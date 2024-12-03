@@ -17,7 +17,7 @@ def generate_text_representation_from_video(videollama2, video_path=""):
   temp_video_frames_dir = "./videollama_temp_frames"
   save_temporary_frames_from_video(video_path,output_path=temp_video_frames_dir)
   
-  video_frames = [os.path.join("./videollama_temp_frames" ,f) for f in os.listdir("./videollama_temp_frames") if f.endswith('.png')]
+  video_frames = [os.path.join(temp_video_frames_dir ,f) for f in os.listdir(temp_video_frames_dir) if f.endswith('.png')]
   sorted_video_frames = sorted(video_frames,key = lambda x: int(x.split("/")[-1].split(".")[0]))
   text_input = "What is happening in the image? Instruction: answer within one line and cover all the details"
   text_rep = ""
@@ -26,7 +26,7 @@ def generate_text_representation_from_video(videollama2, video_path=""):
     text_rep += videollama2.infer(video_path=None, gr_img = frame,text_input=text_input)+"\n"
     print(text_rep)
     # delete temp frames inside the folder
-  shutil.rmtree("./videollama_temp_frames")
+  shutil.rmtree(temp_video_frames_dir)
   print(f"text rep : {text_rep}")
   return text_rep
 

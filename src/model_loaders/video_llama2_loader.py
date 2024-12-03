@@ -12,7 +12,6 @@ root = dirname(dirname(dirname(abspath(__file__))))
 video_llama_root = os.path.join(root, "foundation_models", "Video-LLaMA")
 sys.path.append(root)
 sys.path.append(video_llama_root)
-print(sys.path)
 import torch.backends.cudnn as cudnn
 from video_llama.common.config import Config
 from video_llama.common.dist_utils import get_rank
@@ -132,6 +131,7 @@ class VideoLlama2Loader():
           "in xxx=yyy format will be merged into config file (deprecate), "
           "change to --cfg-options instead.",
       )
+      parser.add_argument('--output', type=str, required=True, help='Output JSON file name')
       args = parser.parse_args()
       return args
 
