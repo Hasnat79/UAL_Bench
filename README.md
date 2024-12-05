@@ -33,7 +33,7 @@ git clone https://github.com/Hasnat79/UAL_Bench
 ```bash
 git submodule update --init --recursive
 ```
-## Installation
+## 🚀 Installation
 
 To install the necessary dependencies, run:
 
