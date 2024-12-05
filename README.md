@@ -13,7 +13,7 @@
 
 </div>
 
-## Abstract
+## 📜 Abstract
 Localizing unusual activities in videos, such as abnormal behaviors or traffic incidents, holds practical significance. 
 However, pretrained foundation models struggle with localizing diverse unusual events likely because of their insufficient representation in the models' pretraining datasets. 
 To explore foundation models' capability in localizing unusual activities, 
@@ -42,11 +42,10 @@ source setup.sh
 ```
 - creates a anaconda environment named `ual-bench` and installs the necessary dependencies.
 
-## Dataset
+## 📂 Dataset
 ![Dataset Details](figures/dataset_details.png)
 
-[/data](data) direcotry contains the annotation json files and the brief details of the datasets for UAL-Bench. All the videos of each dataset are **available** on [hugging_face/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench).
-
+[/data](data) directory contains the annotation json files and the brief details of the datasets for UAL-Bench. All the videos of each dataset are **available** on [hugging_face/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench). How to download: 
 - go to [huggingface/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench)
 - go to files and version 
 - copy the download link of a dataset (e.g. uag_funqa.tar)
@@ -60,7 +59,7 @@ tar -xvf uag_funqa.tar
 ```
 - More details can be found in [data/README.md](data/README.md)
 
-### Data loaders
+### ⚙️ Data loaders
 After setting the videos in the [data](data) directory, you can use the data loader modules from [/src/dataloaders](src/dataloaders) to directly load the videos and annotations in your code. For example:
 
 ```python
@@ -70,7 +69,7 @@ for video_id, video_info in uag_oops:
     print(video_id, video_info)
 ```
 
-## VLM-LLM Pipeline
+## 🧠 VLM-LLM Pipeline
 **Overview:** Generates a video text representation using VLM and then uses the LLM to generate the unusual activity localization predictions given the text representation + instruction. 
 
 ### Video Text Representation using VLM
@@ -124,7 +123,7 @@ for video_id, video_info in uag_oops:
   </details>
 
 
-## Evaluation Pipeline
+## 🧪 Evaluation Pipeline
 - evaluation script can be found in [/src/eval](src/eval)
 - Example:
 
@@ -134,7 +133,7 @@ for video_id, video_info in uag_oops:
      --results_file ../../outputs/vlm_llm_prediction_generations/blip2_llama3_uag_oops.json
     ```
 
-## Evaluate Your Model's result on UAL-Bench
+## 📝 Evaluate Your Model's result on UAL-Bench
 We have provided a template: [output_test_template.json](src/eval/output_test_template.json) file. We recommend you to prepare your model's output in the same format. Then run the following:
 
 ```bash
