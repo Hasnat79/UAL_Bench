@@ -63,7 +63,6 @@ def build_videollama2_text_rep(data = '',model = "",output_path =""):
       with open(output_path, 'w') as f:
         json.dump( videollama2_text_rep_x_charades_sta, f,indent=4)
         print(f"succesfully saved{output_path} with {len( videollama2_text_rep_x_charades_sta)} samples")
-    break
   #check count
   with open(output_path) as f:
     videollama2_text_rep_x_charades_sta = json.load(f)

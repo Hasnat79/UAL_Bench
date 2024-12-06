@@ -44,33 +44,10 @@ def build_videollama2_text_rep(data = '',model = "",output_path =""):
       with open(output_path, 'w') as f:
         json.dump(videollama2_text_rep_x_funqa, f,indent=4)
         print(f"succesfully saved videollama2_text_rep_x_funqa with {len(videollama2_text_rep_x_funqa)} samples")
-    break
 
 
 
-# def __build_videollama2_text_rep(data = uag_oops,model = videollama2,output_path =""):
-#   videollama2_text_rep_x_uag_oops = {}
-#   if os.path.exists(output_path):
-#     with open(output_path) as f:
-#       videollama2_text_rep_x_uag_oops = json.load(f)
-#       print(f"size of videollama2_text_rep_x_uag_oops: {len(videollama2_text_rep_x_uag_oops)}")
-#   saved_rep ={}
-#   for video_id,video_info in videollama2_text_rep_x_uag_oops.items():
-#     saved_rep[video_id[:-5]] = video_info["text_rep"]
-#   for video_id,video_info in tqdm(uag_oops):
-#     if video_id not in videollama2_text_rep_x_uag_oops:
-#       print(f"video_id: {video_id}")
-#       video_path = video_info["video_path"]
 
-#       text_rep = generate_text_representation_from_video(videollama2,video_path)
-#       video_info["text_rep"] = text_rep
-#       videollama2_text_rep_x_uag_oops[video_id] = video_info
-#       with open(output_path,'w') as f:
-#         json.dump(videollama2_text_rep_x_uag_oops,f,indent = 4)
-#         print(f"successfully saved videollama2_text_rep_x_uag_oops with {len(videollama2_text_rep_x_uag_oops)} samples")
-#   with open(output_path) as f:
-#     videollama2_text_rep_x_ssbd_dataset = json.load(f)
-#     print(f"size of videollama2_text_rep_x_ssbd_dataset: {len(videollama2_text_rep_x_ssbd_dataset)}")
 
 if __name__ == "__main__":
   funqa_humor_data = FunQA_DataLoader()

@@ -51,7 +51,7 @@ def build_videollama2_text_rep_ssbd_(ssbd,videollama2,output_path =""):
       with open(output_path,'w') as f:
         json.dump(videollama2_text_rep_x_ssbd_dataset,f,indent = 4)
         print(f"successfully saved videollama2_text_rep_x_ssbd_dataset with {len(videollama2_text_rep_x_ssbd_dataset)} samples")
-    break 
+    
   with open(output_path) as f:
     videollama2_text_rep_x_ssbd_dataset = json.load(f)
     print(f"size of videollama2_text_rep_x_ssbd_dataset: {len(videollama2_text_rep_x_ssbd_dataset)}")
