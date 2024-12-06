@@ -45,7 +45,7 @@ To install the necessary dependencies, run:
 ```bash
 source setup.sh
 ```
-- creates a anaconda environment named `ual-bench` and installs the necessary dependencies.
+- creates an anaconda environment named `ual-bench` and installs the necessary dependencies.
 
 ## 📂 Dataset
 
