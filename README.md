@@ -180,9 +180,11 @@ python eval_your_results.py\
   ```
  </details>
  
+## ☁ Running on HPC: High-Performance Computing
+We have provided a sample `hpc_run.sh` to run the pipelines on HPC. You can modify the script according to your needs. If you are from TAMU, you can directly use this script with little to no changes.
 
 ## ✒️ Citation
-If you find our work helpful for your research, please consider citing our work.
+If you find our work helpful for your research, please consider citing our work. Also, we would appreciate it if you could star this repository.
 ```markdown
 @article{abdullah2024ual,
   title={Ual-bench: The first comprehensive unusual activity localization benchmark},
