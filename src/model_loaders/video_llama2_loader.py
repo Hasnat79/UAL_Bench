@@ -138,7 +138,7 @@ class VideoLlama2Loader():
 if __name__ == "__main__":
     video_llama2 = VideoLlama2Loader()
     print("Model loaded")
-    video_path = root+"/data/oops_video/val/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)0.mp4"
+    video_path = root+"/data/uag_oops/videos/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)0.mp4"
     query = "What is happening in this video?"
     answer = video_llama2.infer(video_path,gr_img=None,text_input= query)
     print(f"Answer: {answer}")
