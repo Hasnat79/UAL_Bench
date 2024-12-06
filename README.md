@@ -48,7 +48,10 @@ source setup.sh
 - creates a anaconda environment named `ual-bench` and installs the necessary dependencies.
 
 ## 📂 Dataset
-![Dataset Details](figures/dataset_details.png)
+
+<div align="center">
+  <img src="figures/dataset_details.png" alt="example" width="500"/>
+</div>
 
 [/data](data) directory contains the annotation json files and the brief details of the datasets for UAL-Bench. All the videos of each dataset are **available** on [hugging_face/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench). How to download: 
 - go to [huggingface/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench)
