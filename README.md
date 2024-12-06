@@ -26,7 +26,7 @@ On UAL-Bench, we evaluate three approaches: Video-Language Models (Vid-LLMs), in
 suggesting future research directions on this important task.
 
 <div align="center">
-  <img src="figures/ual_example.png" alt="example" width="800"/>
+  <img src="figures/ual_example.png" alt="example" width="500"/>
 </div>
 
 ## 🔧 Getting Started
