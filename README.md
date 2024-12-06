@@ -1,7 +1,7 @@
 <div align="center">
 
 # UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark
-[**Hasnat Md Abdullah**](https://github.com/Hasnat79)<sup>1</sup> · [**Tian Liu**](https://tian1327.github.io/)<sup>1</sup> · [**Kangda Wei**](https://weikangda.github.io/kangda.github.io//)<sup>1</sup> · [**Shu Kong**](https://aimerykong.github.io/)<sup>2,3,*</sup> · [**Ruihong Huang**](https://scholar.google.com/citations?user=NU2aHWUAAAAJ&hl=en)<sup>1,*</sup>
+[**Hasnat Md Abdullah**](https://github.com/Hasnat79)<sup>1</sup> · [**Tian Liu**](https://tian1327.github.io/)<sup>1</sup> · [**Kangda Wei**](https://weikangda.github.io/kangda.github.io//)<sup>1</sup> · [**Shu Kong**](https://aimerykong.github.io/)<sup>2,3,\*</sup> · [**Ruihong Huang**](https://scholar.google.com/citations?user=NU2aHWUAAAAJ&hl=en)<sup>1,\*</sup>
 
 <sup>1</sup>Texas A&M University&emsp;&emsp;&emsp;<sup>2</sup>University of Macau&emsp;&emsp;&emsp;<sup>3</sup> Institute of Collaborative Innovation
 
