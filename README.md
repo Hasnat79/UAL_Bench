@@ -1,9 +1,11 @@
 <div align="center">
 
 # UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark
-[**Hasnat Md Abdullah**](https://github.com/Hasnat79)<sup>1</sup> · [**Kangda Wei**](https://weikangda.github.io/kangda.github.io//)<sup>1</sup> · [**Tian Liu**](https://tian1327.github.io/)<sup>1</sup> · [**Shu Kong**](https://aimerykong.github.io/)<sup>2</sup> · [**Ruihong Huang**](https://scholar.google.com/citations?user=NU2aHWUAAAAJ&hl=en)<sup>2</sup>
+[**Hasnat Md Abdullah**](https://github.com/Hasnat79)<sup>1</sup> · [**Tian Liu**](https://tian1327.github.io/)<sup>1</sup> · [**Kangda Wei**](https://weikangda.github.io/kangda.github.io//)<sup>1</sup> · [**Shu Kong**](https://aimerykong.github.io/)<sup>2,3,\*</sup> · [**Ruihong Huang**](https://scholar.google.com/citations?user=NU2aHWUAAAAJ&hl=en)<sup>1,\*</sup>
 
-<sup>1</sup>Texas A&M University&emsp;&emsp;&emsp;<sup>2</sup>University of Macau
+<sup>1</sup>Texas A&M University&emsp;&emsp;&emsp;<sup>2</sup>University of Macau&emsp;&emsp;&emsp;<sup>3</sup> Institute of Collaborative Innovation
+
+<sup>*</sup>Authors share senior authorship.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2312.14494-b31b1b.svg)](https://arxiv.org/abs/2410.01180)
@@ -23,7 +25,10 @@ We also introduce a new metric, $R@1, TD\leq p$, as an auxiliary metric to reaso
 On UAL-Bench, we evaluate three approaches: Video-Language Models (Vid-LLMs), instruction-tuned Vid-LLMs, and a novel integration of Vision-Language Models and Large Language Models (VLM-LLM). Our results show the VLM-LLM approach excels in localizing short-span unusual events and predicting their onset (start time) more accurately than Vid-LLMs. Our findings highlight the challenges posed by long-duration videos, particularly in autism diagnosis scenarios, and the need for further advancements in localization techniques. Our work not only provides a benchmark for unusual activity localization but also outlines the key challenges for existing foundation models, 
 suggesting future research directions on this important task.
 
-![example](figures/ual_example.png)
+<div align="center">
+  <img src="figures/ual_example.png" alt="example" width="500"/>
+</div>
+
 ## 🔧 Getting Started
 - Clone this repository
 ```bash
@@ -43,7 +48,10 @@ source setup.sh
 - creates a anaconda environment named `ual-bench` and installs the necessary dependencies.
 
 ## 📂 Dataset
-![Dataset Details](figures/dataset_details.png)
+
+<div align="center">
+  <img src="figures/dataset_details.png" alt="example" width="500"/>
+</div>
 
 [/data](data) directory contains the annotation json files and the brief details of the datasets for UAL-Bench. All the videos of each dataset are **available** on [hugging_face/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench). How to download: 
 - go to [huggingface/ual_bench](https://huggingface.co/datasets/hasnat79/ual_bench)
