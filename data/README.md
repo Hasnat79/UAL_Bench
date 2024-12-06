@@ -1,9 +1,8 @@
-
-
-
 # Dataset Details
-![Dataset Details](../figures/dataset_details.png)
 
+<div align="center">
+  <img src="../figures/dataset_details.png" alt="example" width="500"/>
+</div>
 
 ## Downloading Videos
 - Go to  -->  [![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-ual--bench-blue)](https://huggingface.co/datasets/hasnat79/ual_bench)
