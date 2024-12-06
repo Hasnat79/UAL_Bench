@@ -10,25 +10,9 @@ from tqdm import tqdm
 root = dirname(dirname(dirname(dirname(abspath(__file__)))))
 sys.path.append(root)
 
-from joblib import Memory
-cache_dir = './cachedir'
-if not os.path.exists(cache_dir):
-    os.makedirs(cache_dir)
-memory = Memory(cache_dir)
-
 from configs.configure import ssbd_data_path,ssbd_video_dir
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
-
-@memory.cache
-def initialize_blip2_model():
-    '''
-    initializes the blip2 model
-    '''
-    processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b",cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24")
-    model = Blip2ForConditionalGeneration.from_pretrained(
-"Salesforce/blip2-opt-2.7b", torch_dtype=torch.float16, cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24") 
-    model.to("cuda:0")
-    return processor,model
+from src.text_representation_builders.utils import initialize_blip2_model
 
 def vqa_captioner(frame,question=""):
     '''

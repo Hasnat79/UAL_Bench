@@ -4,42 +4,22 @@ import sys
 import shutil
 import cv2
 import torch
-
+from PIL import Image
 from tqdm import tqdm
 root = dirname(dirname(dirname(dirname(abspath(__file__)))))
 sys.path.append(root)
 
-from joblib import Memory
-cache_dir = './cachedir'
-if not os.path.exists(cache_dir):
-    os.makedirs(cache_dir)
-memory = Memory(cache_dir)
-
-
 import json
 from configs.configure import charades_sta_test_path, charades_video_dir,funqa_data_path, funqa_test_humor_video_dir
-from transformers import Blip2Processor, Blip2ForConditionalGeneration
+from src.text_representation_builders.utils import initialize_blip2_model
 import argparse
-
-
-@memory.cache
-def initialize_blip2_model():
-    '''
-    initializes the blip2 model
-    '''
-    processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b",cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24")
-    model = Blip2ForConditionalGeneration.from_pretrained(
-"Salesforce/blip2-opt-2.7b", torch_dtype=torch.float16, cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24") 
-    model.to("cuda:0")
-    return processor,model
-
 
 def vqa_captioner(frame,question=""):
     '''
     given a frame / image it returns the captioned text using blip2 model utilizing visual question answering technique
     '''
     # question = "Question: What is happening in the image? Answer: "
-    inputs = processor(frame, return_tensors="pt").to("cuda",torch.float16)
+    inputs = processor(frame,return_tensors="pt").to("cuda",torch.float16)
     out = model.generate(
     **inputs,
     num_beams=5,
@@ -72,6 +52,12 @@ def load_frame(frame_path):
     frame = cv2.imread(frame_path)
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     return frame
+# def load_frame(frame_path):
+#     '''loads a frame from a given frame path
+#     '''
+#     frame = cv2.imread(frame_path)
+#     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+#     return frame
 def generate_text_representation_from_video(video_path=""):
     ''' from a video path it saves all the frames at 1fp in a temp folder and then generates text representation from each frame using captioner function and returns the concatenated text representation of all the frames.
     '''

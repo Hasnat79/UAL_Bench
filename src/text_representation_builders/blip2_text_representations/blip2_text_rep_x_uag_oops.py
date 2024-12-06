@@ -9,26 +9,11 @@ import torch
 from tqdm import tqdm
 root = dirname(dirname(dirname(dirname(abspath(__file__)))))
 sys.path.append(root)
-from joblib import Memory
-cache_dir = './cachedir'
-if not os.path.exists(cache_dir):
-    os.makedirs(cache_dir)
-memory = Memory(cache_dir)
 
 import json
 from configs.configure import uag_oops_dataset_path,uag_oops_video_dir
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
-
-@memory.cache
-def initialize_blip2_model():
-    '''
-    initializes the blip2 model
-    '''
-    processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b",cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24")
-    model = Blip2ForConditionalGeneration.from_pretrained(
-"Salesforce/blip2-opt-2.7b", torch_dtype=torch.float16, cache_dir = cache_dir,revision="51572668da0eb669e01a189dc22abe6088589a24") 
-    model.to("cuda:0")
-    return processor,model
+from src.text_representation_builders.utils import initialize_blip2_model
 
 def vqa_captioner(frame,question=""):
     '''
@@ -108,7 +93,6 @@ def build_blip2_text_rep_x_oops_dataset_v1(dataset = "dataset_path" ,output_path
             with open(output_path, 'w') as f:
                 json.dump(blip2_text_rep_x_oops_dataset_v1, f,indent=4)
                 print(f"succesfully saved {output_path} with {len(blip2_text_rep_x_oops_dataset_v1)} samples")
-        break
     #verifying the result
     with open(output_path,'r') as f:
         blip2_text_rep_x_oops_dataset_v1 = json.load(f)
