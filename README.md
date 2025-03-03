@@ -8,7 +8,8 @@
 <sup>*</sup>Authors share senior authorship.
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.14494-b31b1b.svg)](https://arxiv.org/abs/2410.01180)
+
+[![Paper]([https://img.shields.io/badge/arXiv-2312.14494-b31b1b.svg)](https://arxiv.org/abs/2410.01180](https://openaccess.thecvf.com/content/WACV2025/papers/Abdullah_UAL-Bench_The_First_Comprehensive_Unusual_Activity_Localization_Benchmark_WACV_2025_paper.pdf))
 ![unusual--activity--localization](https://img.shields.io/badge/Task-Unusual%20Activity%20Localization-blue)
 [![Dataset](https://img.shields.io/badge/Dataset-UAL--Bench-yellow)](https://huggingface.co/datasets/hasnat79/ual_bench)
 
